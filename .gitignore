@@ -1,0 +1,7 @@
+xcuserdata/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj
+.build/
+.DS_Store
